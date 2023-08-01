@@ -9,7 +9,7 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Africa/Nairobi #set correct timezone
+      - TZ=Asia/Kolkata #set correct timezone
       - SERVERPORT=51820 #optional
       - PEERS=3 #optional
       - PEERDNS=auto #optional
