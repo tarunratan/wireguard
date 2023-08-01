@@ -1,6 +1,6 @@
 # WireGuard VPN Server using Docker Compose
 
-![WireGuard Logo](https://www.wireguard.com/images/wireguard.svg)
+![WireGuard Logo](https://www.wireguard.com/img/wireguard.svg)
 
 Welcome to the WireGuard VPN server setup repository! This repository provides a simple Docker Compose file that allows you to quickly deploy a WireGuard VPN server and take advantage of its cutting-edge features. Whether you're a seasoned security specialist, a DevOps enthusiast, or a curious tech enthusiast, WireGuard is here to elevate your VPN experience to the next level.
 
